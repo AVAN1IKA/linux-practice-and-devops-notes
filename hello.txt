@@ -1,0 +1,4 @@
+Day 1 - DevOps Practice
+- Learned Git basics
+- Setup GitHub repo
+- Understood DevOps lifecycle
