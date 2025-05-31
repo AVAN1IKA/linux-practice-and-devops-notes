@@ -1,0 +1,5 @@
+git add day1-linux-commands.txt
+git commit -m "Added Day 1 Linux commands"
+git push origin main
+
+#this we can use to push the file content into the GitHub repo and show the command
